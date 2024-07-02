@@ -1,0 +1,7 @@
+Untuk menjalankan server web kita dapat menggunakan perintah
+#
+   docker compose up -d
+#
+
+Noted:
+Sudah ujicoba create SSL menggunakan certbot, ternyata gagal
